@@ -1,0 +1,21 @@
+.Text-headline {
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 38px;
+  }
+  
+  .Text-Semibold {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+  }
+  
+  .Text-Normal {
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+  }
+  
